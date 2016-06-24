@@ -1,0 +1,38 @@
+<style>
+  .topCommonPart{
+	margin:0 auto;
+	text-align:left;
+	width:1024px; 
+	border-top:1px solid #999;
+	
+  }
+  .commonColor{
+	background-color:rgb(232,246,208);
+	height:50px;
+	padding-top:10px;
+  }
+  body{
+	    margin-top:0px;
+	  }
+  .commonFont{
+   font-height:bold;
+   font-size:14px;
+  }
+  .commonLeftPattern{
+	  
+	  float:left;
+	  padding-left:10px;
+	  
+  }
+  .citylist{
+	   float:left;
+	   padding-left:10px;
+	   font-size:12px;
+	   font-height:bold;
+	   border-bottom:1px solid #6F3;
+	   height:20px;
+	   background-color:rgb(232,246,208);
+	   padding-top:4px;
+	  
+  }
+</style>

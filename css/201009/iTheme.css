@@ -1,0 +1,33 @@
+/* CSS Document */
+
+.outa {
+	height: 900px;
+	width: 1000px;
+	margin-top:0px;
+	margin-left:0%;	
+}
+
+.topPart {
+	
+	height: 100px;
+	width: 100%;
+	
+	margin-left: 0%;	
+}
+.bbc {
+	background-image: url(../../image/20100911/ba.gif);
+	background-repeat: no-repeat;
+}
+.bbd {
+	background-image: url(../../image/20100911/bc.gif);
+	background-repeat: no-repeat;
+	
+}
+.hh {
+	background-image: url(../../image/20100911/daohang.gif);
+	background-repeat: no-repeat;
+}
+.ee {
+	background-image: url(../../image/20100911/topA.gif);
+	background-repeat: no-repeat;
+}

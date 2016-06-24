@@ -1,0 +1,105 @@
+/* CSS Document */
+.ctop {
+	border: 1px solid #B3B3B3;
+	height: 300px;
+	width: 60%;
+	
+}
+.litem {
+	float: left;
+	height: 10%;
+	width: 15%;
+	font-size: 12px;
+	text-align: center;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 6px;
+	margin-left: 1px;
+	color: #FFFFFF;
+	cursor:pointer;
+	
+}
+.cc1 {
+	display:none;
+	
+	
+}
+.cc40 {
+	display:none;
+	
+	
+}
+
+.litemL {
+	
+	float: left;
+	height: 6%;
+	width: 15%;
+	font-size: 12px;
+	text-align: center;
+	padding-left: 1px;
+	padding-right: 1px;
+	margin-left: 1px;
+	color: #FFFFFF;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFF33;
+	border-bottom-width: 1px;
+}
+
+.LineA {
+	border-bottom-style: solid;
+	border-bottom-color: #FFFF33;
+	border-bottom-width: 1px;
+}
+.tt {
+	background-color: #E5E2D2;
+	width: 100%;
+	background-image: url(../image/201004/head/bgA.gif);
+	background-repeat: repeat-x;
+	height: 27px;
+}
+.cc {
+	height: auto;
+	width: 100%;
+	font-size: 12px;
+	margin-top: 1px;
+	top: 1px;
+	position: relative;
+	
+	
+}
+.paleftA {
+	float: left;
+}
+.ttA {
+	background-color: #E5E2D2;
+	width: 100%;
+	background-image: url(../image/201004/head/bgB.gif);
+	background-repeat: repeat-x;
+}
+.litemA {
+	float: left;
+	height: 22px;
+	width: 110px;
+	font-size: 12px;
+	text-align: center;
+	padding-left: 1px;
+	padding-right: 1px;
+	margin-left: 1px;
+	color: #FFFFFF;
+	background-image: url(../image/201004/head/bgB.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	cursor:pointer;
+}
+.MMA {
+	background-image: url(../image/201004/head/lineA.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	margin-left: 10px;
+	padding-left: 10px;
+	padding-top: 4px;
+	text-align: left;
+	height: 28px;
+	margin-top: 8px;
+}

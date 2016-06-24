@@ -1,0 +1,52 @@
+.outerPrefer {
+	height: 600px;
+	width: 200px;
+	margin-left:16px;
+	font-size: 14px;
+	font-weight: normal;
+	background-image: url(../images/linea.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+	overflow: visible;
+}
+.ab {
+	background-image: url(../images/linea.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 60px;
+	width: 200px;
+	background-color: #996633;
+	overflow: visible;
+}
+.bgpoint {
+	background-image: url(../images/line.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-size: 12px;
+	height: 20px;
+	width: 200px;
+	overflow: visible;
+	
+}
+.bgp {
+	background-image: url(../images/line.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+	font-size: 12px;
+	overflow: visible;
+}
+.OUTT {
+	border: 1px solid #999999;
+	width: 600px;
+}
+.dd {
+	visibility: hidden;
+}
+.bbb {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.ee {
+	visibility: visible;
+}
